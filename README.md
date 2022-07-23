@@ -2,12 +2,6 @@
 
 
 
-使用语法
-
-```
-python ysgg.py TXT1 TXT2
-```
-
 example
 
 ```
